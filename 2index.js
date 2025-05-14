@@ -1,4 +1,4 @@
-
+//javascript program on color flipper
 const body=document.getElementsByTagName("body")[0]
 //body.style.backgroundColor="red"
 
